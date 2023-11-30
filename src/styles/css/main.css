@@ -1,0 +1,18 @@
+.medium-info-box {
+  background-color: rgb(39, 39, 39);
+  border: 2px rgb(92, 92, 92) solid;
+  padding: 1rem;
+  width: fit-content;
+  min-width: 15rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.25rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #eee;
+}
+
+body {
+  background-color: black;
+  color: white;
+}/*# sourceMappingURL=main.css.map */
